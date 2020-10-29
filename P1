@@ -13,3 +13,8 @@ if Num > 0:
 
 else:
     print("Its Factorial is not possible as digit entered is negative")
+def sum(int a, int b):
+If (a>b)
+return (a-b);
+else if (b>=a)
+return a+b;
